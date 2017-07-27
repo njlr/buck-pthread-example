@@ -9,5 +9,5 @@ buck run :main
 ## Manual Compile
 
 ```bash=
-clang++ main.cpp -o main -lpthread && ./main
+c++ main.cpp -o main -lpthread && ./main
 ```
